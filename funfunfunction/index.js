@@ -6,3 +6,9 @@ const dragonEvents = [
     { type: 'attack', value: 12, targer: 'player-dorkman' }
 ]
 
+const totalDamageOnDorkman = dragonEvents
+    .filter(function(event) {
+        return event.type === 'attack'
+    });
+
+console.log('totalDamageOnDorkman', totalDamageOnDorkman)
