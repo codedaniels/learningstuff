@@ -6,3 +6,19 @@ Philosophy
         Rest often.  
         Review courses.
 
+What you'll learn
+    Components
+    JSX
+    Styling components
+    Props & state
+    Event handling
+    Lifecycle methods
+    HTTP 
+    Forms
+    More!
+
+What you should know beforehand
+    HTML
+    CSS
+    JavaScript
+    ES2016/ES6
