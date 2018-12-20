@@ -23,3 +23,9 @@ What you should know beforehand
     JavaScript
     ES2016/ES6
 
+Why React?
+    Virtual DOM
+        Lets you update the DOM quicker
+    Reusable (and clearer) web components
+    Maintained by Facebook
+    Hirable
